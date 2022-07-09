@@ -1,0 +1,23 @@
+
+{
+    "subs":[
+        {
+            "nick":"EmaDev",
+            "months":100,
+            "profileUrl": "https://media-exp1.licdn.com/dms/image/D4E35AQHo5BpyH8x94g/profile-framedphoto-shrink_400_400/0/1635354696628?e=1657810800&v=beta&t=_ySdTOAK7RGIvhi5h5pkpL29z77kU-A-9-5y-REMxps",
+            "description":"Esta aplicación es una practica realizada desde el link: https://www.youtube.com/watch?v=15VKbky2gB4&t=5709s"
+        },
+        {
+            "nick":"tictools",
+            "months":6,
+            "profileUrl": "https://i.pravatar.cc/150?u=tictool",
+            "description":"Tictools era profe!"
+        },
+        {
+            "nick":"Redd",
+            "months":3,
+            "profileUrl": "https://i.pravatar.cc/150?u=redd",
+            "description":"Redd! Es hacer dos veces"
+        }
+    ]
+}
