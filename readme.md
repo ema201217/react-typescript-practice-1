@@ -14,4 +14,5 @@
     npm run dev
 
 # PREVIEW
-![Image subs](img-subs-page.png)
+***
+<img src="img-subs-page.png" width="320">
